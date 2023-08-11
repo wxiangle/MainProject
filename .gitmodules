@@ -1,0 +1,3 @@
+[submodule "sub_project"]
+	path = sub_project
+	url = https://github.com/wxiangle/sub_project.git
